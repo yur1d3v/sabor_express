@@ -2,7 +2,7 @@
 
 ## Linguagem Usada:
 
-<img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" alt="Python Logo" width="50">
+<img src="https://icons8.com.br/icon/l75OEUJkPAk4/python" alt="Python Logo" width="50">
 
 Este projeto foi desenvolvido como parte de um curso realizado com a Alura para o programa Geração Caldeira. O projeto consiste em um sistema de avaliação para restaurantes, permitindo registrar avaliações de clientes e calcular a média dessas avaliações.
 
